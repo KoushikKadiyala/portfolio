@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function activateSection() {
     const scrollPos = window.scrollY;
-    const offset = getNavOffset() + 8; // small extra margin to be safe
+    const offset = getNavOffset() + 20; // small extra margin to be safe
     let currentId = "";
 
     // find the last section whose top is <= scrollPos + offset
