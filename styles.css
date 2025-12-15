@@ -234,6 +234,11 @@ nav a.active{
 .edu-score-tag{
     align-items: right;
 }
+.sem-status{
+    font-size: 12px;
+     color: #8a94a0;
+    margin-top: 4px;
+}
 
 /* Make the cert-list visually grouped */
 .cert-list { 
