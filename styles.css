@@ -110,7 +110,7 @@ nav a{
 nav a.active{
     color: #0056ff;
     border-bottom: 3px solid #0056ff;
-    padding: 2px;
+    padding: 4px;
     font-weight: 700px;
 }
 .contact1{
