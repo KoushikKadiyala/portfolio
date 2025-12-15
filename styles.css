@@ -233,7 +233,7 @@ nav a.active{
   outline: none;
 }
 .edu-score-tag{
-    text-items: right;
+    justify-items: right;
 }
 .sem-status{
     font-size: 12px;
