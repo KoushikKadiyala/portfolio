@@ -231,6 +231,9 @@ nav a.active{
   box-shadow: 0 14px 40px rgba(2,6,23,0.6);
   outline: none;
 }
+.edu-score-tag{
+    align-items: right;
+}
 
 /* Make the cert-list visually grouped */
 .cert-list { 
